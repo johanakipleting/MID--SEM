@@ -1,2 +1,2 @@
-# MID- SEMESTER
- MY PERSONAL WEBSITE
+# mid- semester
+ personal website
